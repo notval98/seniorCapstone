@@ -1,0 +1,5 @@
+sparsenet.m - main executive script for learning basis functions Phi
+display_network.m - displays network state (basis functions and coefficient variances)
+init_Phi.m - function for initializing basis functions to random numbers
+sparsify.m - function for computing sparse representation of an image via LCA, called by sparsenet
+g.m - thresholding function for LCA, called by sparsify
