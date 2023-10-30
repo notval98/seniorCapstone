@@ -3,3 +3,5 @@ display_network.m - displays network state (basis functions and coefficient vari
 init_Phi.m - function for initializing basis functions to random numbers
 sparsify.m - function for computing sparse representation of an image via LCA, called by sparsenet
 g.m - thresholding function for LCA, called by sparsify
+
+download IMAGES.MAT from - https://www.rctn.org/bruno/sparsenet/
